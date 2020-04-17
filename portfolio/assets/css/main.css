@@ -3379,6 +3379,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
+		background-image: url();
 		padding: 10em 0 4.75em 0 ;
 	}
 
